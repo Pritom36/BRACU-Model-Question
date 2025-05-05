@@ -4,19 +4,19 @@ const SubscriptionSystem = {
     DURATIONS: {
         '1-month': 30,
         '3-month': 90,
-        '6-year': 2190
+        '6-month': 365
     },
 
     // Subscription prices
     PRICES: {
-        '1-month': 499,
-        '3-month': 1299,
-        '6-year': 4999
+        '1-month': 50,
+        '3-month': 100,
+        '6-year': 200
     },
 
     // WhatsApp configuration
     WHATSAPP_CONFIG: {
-        adminNumber: '1234567890', // Replace with actual admin number
+        adminNumber: '+8801737697736', // Replace with actual admin number
         messagePrefix: 'Hello! I would like to ',
     },
 
